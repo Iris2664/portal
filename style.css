@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    margin: 3em;
+}
+
+.box1 {
+    margin: 2.5em 0;
+}
+
+.box1 img {
+    border-radius:50%;
+    border: 5px solid #97d0f7;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    margin: 1em 0;
+}
+
+.box1 .en {
+    padding: .5em 0;
+    font-size: 18px;
+}
+
+.box1 p {
+    color: #6b6b6b;
+}
+
+.box2 {
+    margin: 4em 0;
+}
+
+.box2 a {
+    margin: 0 2em;
+    padding: 1.5em;
+    background-color: #247fbd;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.box2 a:hover {
+    background-color: #fff;
+    color: #247fbd;
+}
